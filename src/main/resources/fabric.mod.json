@@ -8,10 +8,10 @@
 		"grandmen123"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "http://xessentials.grandmen123.com/",
+		"sources": "https://github.com/vitorvicente/XEssentials"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/xessentials/icon.png",
 	"environment": "*",
 	"entrypoints": {
